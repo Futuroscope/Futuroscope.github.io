@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2F2017%2F07%2F18%2F%E8%8F%9C%E9%B8%9F%E6%9D%A5%E4%BA%86%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo + nexT测试]]></title>
     <url>%2F2017%2F07%2F17%2Fhello-world%2F</url>
     <content type="text"><![CDATA[欢迎访问我的github 本文只用来测试还是测试1$ hexo clean More info: Writing Run server1$ hexo server 更多： 还是测试。 Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
