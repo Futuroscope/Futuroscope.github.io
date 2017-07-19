@@ -2,12 +2,12 @@
 <search>
   <entry>
     <title><![CDATA[Hexo + nexT测试]]></title>
-    <url>%2F2017%2F07%2F17%2Fhello-world%2F</url>
+    <url>%2Fhello-world.html</url>
     <content type="text"><![CDATA[欢迎访问我的github 本文只用来测试还是测试1$ hexo clean More info: Writing Run server1$ hexo server 更多： 还是测试。 Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
   <entry>
     <title><![CDATA[菜鸟来了]]></title>
-    <url>%2F2017%2F07%2F17%2Ffishbird%2F</url>
+    <url>%2Ffishbird.html</url>
     <content type="text"><![CDATA[#我是菜鸟 ##我来测试的]]></content>
   </entry>
 </search>
