@@ -8,6 +8,12 @@
   <entry>
     <title><![CDATA[菜鸟来了]]></title>
     <url>%2Ffishbird.html</url>
-    <content type="text"><![CDATA[#我是菜鸟 ##我来测试的]]></content>
+    <content type="text"><![CDATA[图片测试：]]></content>
+      <categories>
+        <category>测试一下</category>
+      </categories>
+      <tags>
+        <tag>Just try</tag>
+      </tags>
   </entry>
 </search>
