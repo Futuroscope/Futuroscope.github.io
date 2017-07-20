@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Hexo + nexT测试]]></title>
-    <url>%2Fhello-world.html</url>
-    <content type="text"><![CDATA[欢迎访问我的github 本文只用来测试还是测试1$ hexo clean More info: Writing Run server1$ hexo server 更多： 还是测试。 Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[菜鸟来了]]></title>
-    <url>%2Ffishbird.html</url>
-    <content type="text"><![CDATA[图片测试：]]></content>
-      <categories>
-        <category>测试一下</category>
-      </categories>
-      <tags>
-        <tag>Just try</tag>
-      </tags>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[菜鸟来了]]></title>
+      <url>/%E4%BB%8E%E5%89%8D%E6%85%A2.html</url>
+      <content type="html"><![CDATA[<h2 id="从前慢"><a href="#从前慢" class="headerlink" title="#从前慢"></a>#从前慢</h2><blockquote>
+<p>记得早先少年时<br>大家诚诚恳恳<br>说一句 是一句</p>
+<p>清早上火车站<br>长街黑暗无行人<br>卖豆浆的小店冒着热气</p>
+<p>从前的日色变得慢<br>车，马，邮件都慢<br>一生只够爱一个人</p>
+<p>从前的锁也好看<br>钥匙精美有样子<br>你锁了 人家就懂了</p>
+<p align="right">——木心</p>
+
+</blockquote>
+<p><img src="http://otcegvh8q.bkt.clouddn.com/congqianman.png" alt="从前慢啊"></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 生活 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 随心 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
 </search>
