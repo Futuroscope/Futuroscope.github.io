@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>http://futuroscope.cc/%E4%B8%80%E4%BA%9B%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html</loc>
+    <lastmod>2017-09-10T08:16:01.247Z</lastmod>
+    <data>
+        <display>
+        <title>数学基础知识摘要</title>
+        <pubTime>2017-09-10T07:50:55.000Z</pubTime>
+        
+        <tag>数学</tag>
+         
+         
+           
+             
+              <breadCrumb title="Basic material" url="http://futuroscope.cc/categories/Basic-material/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://futuroscope.cc/%E8%A7%A3%E5%86%B3Matlab-R2016a-Sheffield-GATBX%E9%81%97%E4%BC%A0%E5%B7%A5%E5%85%B7%E7%AE%B1%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98.html</loc>
-    <lastmod>2017-08-23T13:32:57.376Z</lastmod>
+    <lastmod>2017-09-10T07:45:12.424Z</lastmod>
     <data>
         <display>
         <title>解决Matlab(R2016a) Sheffield GATBX遗传工具箱的一些问题</title>
@@ -22,6 +42,8 @@
     </data>
     </url>
 
+    
+    
     
     
   <url>
@@ -43,7 +65,6 @@
     </data>
     </url>
 
-    
     
     
 </urlset>
